@@ -1,5 +1,7 @@
 # Linux-Audio
-Debian Based RPi tweaks for improved sound. For TinyCore Linux based systems see [TinyCore Sound Tweaks](https://github.com/dynobot/TinyCore-Sound-Adjustments)
+Debian Based RPi tweaks for improved sound. 
+- For TinyCore Linux based systems see [TinyCore Sound Tweaks](https://github.com/dynobot/TinyCore-Sound-Adjustments)
+- For Arch Linux based systems see [Arch Linux Sound Tweaks](https://github.com/dynobot/Arch-Linux-Audio-RPi)
  
  To improve the sound of the Raspberry Pi using Debian and other distributions of Linux several parameters can be adjusted.
  1) Improving the priority of the Audio group
