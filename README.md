@@ -8,8 +8,7 @@ Debian Based RPi tweaks for improved sound. For TinyCore Linux based systems see
  4) Improve network latency
  ______________________________________________________________________________________________________________________________
  ## Prerequisites 
- 1) nano file editor; apt install nano
- 2) Or the ability to use vi editor, your choice.
+ 1) The ability to ssh into your OS - See your OS documentation for details.
  
  *Note: System will reboot after install and removal*
  
