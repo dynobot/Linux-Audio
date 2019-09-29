@@ -29,9 +29,9 @@ Debian Based RPi tweaks for improved sound.
  - `sudo ./basic-install.sh`
  
  ## Automated Removal
- - `wget https://github.com/dynobot/Linux-Audio-Adjustments/raw/master/remove.sh
- - `chmod 755 remove.sh
- - `sudo ./remove.sh
+ - `wget https://github.com/dynobot/Linux-Audio-Adjustments/raw/master/remove.sh`
+ - `chmod 755 remove.sh`
+ - `sudo ./remove.sh`
  
  ____________________________________________________________________________________________________________________________
 
