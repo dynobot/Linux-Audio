@@ -1,4 +1,4 @@
-# Linux-Audio
+# Debian Linux-Audio
 Debian Based RPi tweaks for improved sound. 
 - For TinyCore Linux based systems see [TinyCore Sound Tweaks](https://github.com/dynobot/TinyCore-Sound-Adjustments)
 - For Arch Linux based systems see [Arch Linux Sound Tweaks](https://github.com/dynobot/Arch-Linux-Audio-RPi)
