@@ -34,6 +34,6 @@ Debian Based RPi tweaks for improved sound.
  - `sudo ./remove.sh`
  
  ____________________________________________________________________________________________________________________________
-## *Note: System will reboot after install and removal*
+ *Note: System will reboot after install and removal*
 
 
