@@ -10,9 +10,9 @@ Debian Based RPi tweaks for improved sound.
  4) Improve network latency
  ______________________________________________________________________________________________________________________________
  ## Prerequisites 
- 1) The ability to ssh into your OS - See your OS documentation for details.
  
- *Note: System will reboot after install and removal*
+ - The ability to ssh into your OS - See your OS documentation for details.
+ 
  
 **Should work on any SBC running Debian based OS, has been tested on:**
 
@@ -34,6 +34,6 @@ Debian Based RPi tweaks for improved sound.
  - `sudo ./remove.sh`
  
  ____________________________________________________________________________________________________________________________
-
+## *Note: System will reboot after install and removal*
 
 
