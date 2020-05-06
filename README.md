@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" src="https://github.com/dynobot/Linux-Audio-Adjustments/blob/master/images/dbaudio.png">
+</p>
+
 # Debian Linux-Audio
 Debian Based RPi tweaks for improved sound. 
 - For TinyCore Linux based systems see [TinyCore Sound Tweaks](https://github.com/dynobot/TinyCore-Sound-Adjustments)
