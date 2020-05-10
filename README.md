@@ -26,7 +26,7 @@ Debian Based RPi tweaks for improved sound.
 - Allo Sparky
 - ASUS Tinkerboard
 - Odroid C2
-## NOT TESTED ON RPi4
+
  ______________________________________________________________________________________________________________________________
  ## Automated Install
  - `wget https://github.com/dynobot/Linux-Audio-Adjustments/raw/master/basic-install.sh`
